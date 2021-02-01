@@ -74,6 +74,7 @@
  
 ## Spotify Playing 🎧
  [<img src="https://spotifygithub-alpha.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="100%" />](https://open.spotify.com/user/qyhmlg9391j0swm47hpjp33ij)
+  <br />
 <p align="center">
 <img  width="100%"  alt="jpg" src="https://i.pinimg.com/564x/9d/5b/b2/9d5bb224f2b20116f0680ea13b08df63.jpg">
 </p>
