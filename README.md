@@ -75,9 +75,8 @@
 ## Spotify Playing 🎧
  [<img src="https://spotifygithub-alpha.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="100%" />](https://open.spotify.com/user/qyhmlg9391j0swm47hpjp33ij)
 
-<p align="center">
 <img  width="100%"  alt="jpg" src="https://wallpapercave.com/wp/NG9RfqR.jpg">
-</p>
+
 
 [website]: https://vojiir.com
 [youtube]: https://www.youtube.com/channel/UCjmf_f-C8kAiK52SLpKsiVg
