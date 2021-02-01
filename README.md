@@ -34,7 +34,7 @@
 </br>
 </br>
 
-# Connect with me:
+## Connect with me:
 
 [<img align="left" alt="vojiir.com" width="70px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Vojir | YouTube" width="70px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -46,7 +46,7 @@
 <br />
 <br />
 
-# Languages:
+## Languages:
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/html5/html5-original.svg" />
@@ -65,7 +65,7 @@
 ## Activity
 
 <p align="left">  
-  <img   alt="Vojir's GitHub Stats" src="https://github-readme-stats-tau-eight.vercel.app/api?username=sssvt-vojir-mikulas&show_icons=true&theme=graywhite" />
+  <img  width="100%" alt="Vojir's GitHub Stats" src="https://github-readme-stats-tau-eight.vercel.app/api?username=sssvt-vojir-mikulas&show_icons=true&theme=graywhite" />
 </p>
  
 <br />
