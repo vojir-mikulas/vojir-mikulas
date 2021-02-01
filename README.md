@@ -14,7 +14,7 @@
 
 # About ME 💬 :
 
-### - My name is Vojir, I'm 18 student yo from Czech Republic
+### - My name is Vojir, I'm 18 yo student from Czech Republic
 
 <img  width="480" alt="GIF" align="right" src="https://media.giphy.com/media/nzCDqg3pNqg7K/giphy.gif">
 
