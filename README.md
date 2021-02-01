@@ -27,7 +27,7 @@
 ### - Hobbies :
 
 - 🎮 Gaming
-- 🌿 Weed
+- 🌿 
 - 🏀 Basketball
 - 👟 Sneakeeeeerss
 
