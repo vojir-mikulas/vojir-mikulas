@@ -65,7 +65,7 @@
 ## Activity
 
 <p align="left">  
-  <img   alt="Vojir's GitHub Stats" src="https://github-readme-stats-tau-eight.vercel.app/api?username=sssvt-vojir-mikulas&show_icons=true&theme=radical" />
+  <img   alt="Vojir's GitHub Stats" src="https://github-readme-stats-tau-eight.vercel.app/api?username=sssvt-vojir-mikulas&show_icons=true&theme=graywhite" />
 </p>
  
 <br />
@@ -76,7 +76,7 @@
  [<img src="https://spotifygithub-alpha.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="100%" />](https://open.spotify.com/user/qyhmlg9391j0swm47hpjp33ij)
 
 <p align="center">
-<img  width="100%"  alt="jpg" src="https://i.pinimg.com/564x/9d/5b/b2/9d5bb224f2b20116f0680ea13b08df63.jpg">
+<img  width="100%"  alt="jpg" src="https://wallpapercave.com/wp/NG9RfqR.jpg">
 </p>
 
 [website]: https://vojiir.com
