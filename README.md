@@ -41,7 +41,8 @@
 [<img align="left" alt="Vojir | LinkedIn" width="70px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" width="70px" alt="Vojir | Reddit" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/reddit.svg" />][reddit]
 [<img align="left" width="70px" alt="Vojir | Steam" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/steam.svg" />][steam]
-[<img align="left" width="70px" alt="Vojir | Steam" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/stackoverflow.svg" />] [stackoverflow]
+[<img align="left" width="70px" alt="Vojir | Steam" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/stackoverflow.svg" />][stackoverflow]
+
 <br />
 <br />
 <br />
