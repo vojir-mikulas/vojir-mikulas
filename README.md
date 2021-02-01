@@ -48,7 +48,7 @@
 
 ## Languages:
 
-<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/visualstudio/visualstudio-plain.svg" />
+<img align="left" alt="Visual Studio Code" width="40px" background="#000" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/css3/css3-original.svg" />
 <img align="left" alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/csharp/csharp-original.svg" />
