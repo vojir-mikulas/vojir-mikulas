@@ -49,15 +49,14 @@
 
 ## Languages:
 
-<img align="left" alt="Visual Studio Code" width="40px" background-color="#000" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/visualstudio/visualstudio-plain.svg" />
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/css3/css3-original.svg" />
-<img align="left" alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/csharp/csharp-original.svg" />
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/react/react-original.svg" />
-<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/git/git-original.svg" />
+<img align="left" alt="Visual Studio Code" width="40px" background-color="#000" src="https://raw.githubusercontent.com/sssvt-vojir-mikulas/sssvt-vojir-mikulas/main/img/vscode.png" />
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/sssvt-vojir-mikulas/sssvt-vojir-mikulas/main/img/html.png" />
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/sssvt-vojir-mikulas/sssvt-vojir-mikulas/main/img/css.png" />
+<img align="left" alt="C#" width="40px" src="https://raw.githubusercontent.com/sssvt-vojir-mikulas/sssvt-vojir-mikulas/main/img/csharp.png" />
+<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/sssvt-vojir-mikulas/sssvt-vojir-mikulas/main/img/js.png" />
+<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/sssvt-vojir-mikulas/sssvt-vojir-mikulas/main/img/react.png" />
+<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/sssvt-vojir-mikulas/sssvt-vojir-mikulas/main/img/nodejs.png" />
+<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/sssvt-vojir-mikulas/sssvt-vojir-mikulas/main/img/git.png" />
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/github/github-original.svg" />
 
 <br />
