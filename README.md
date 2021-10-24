@@ -61,14 +61,7 @@
 
 <br />
 <br />
-
-## Activity
-
-<p align="left">  
-  <img  alt="Vojir's GitHub Stats" src="https://github-readme-stats-tau-eight.vercel.app/api?username=sssvt-vojir-mikulas&show_icons=true&theme=graywhite" />
-</p>
  
-<br />
 <br />
  
  
