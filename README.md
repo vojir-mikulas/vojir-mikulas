@@ -16,7 +16,7 @@
 
 ### - My name is Vojir, I'm 18 yo student from Czech Republic
 
-<img  width="480" alt="GIF" align="right" src="https://media.giphy.com/media/nzCDqg3pNqg7K/giphy.gif">
+<img  width="480" alt="GIF" align="right" src="https://64.media.tumblr.com/0558cf92c0467525a560e1780c8c20ab/tumblr_nisjibuBXx1sqqpblo1_500.gif">
 
 ### - Learning :
 
@@ -68,7 +68,7 @@
 ## Spotify Playing 🎧
  [<img src="https://spotifygithub-alpha.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="100%" />](https://open.spotify.com/user/qyhmlg9391j0swm47hpjp33ij)
 
-<img  width="100%"  alt="jpg" src="https://wallpapercave.com/wp/NG9RfqR.jpg">
+<img  width="100%"  alt="jpg" src="https://i.redd.it/erc1wgykrhc31.png">
 
 
 [website]: https://vojiir.com
