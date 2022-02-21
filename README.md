@@ -20,15 +20,15 @@
 
 ### - Learning :
 
-- ✨ React & Redux
-- ✨ C# Unity gameDev
+- ✨ Next JS
+- ✨ Back-end in Express js
 - ✨ Kind of Graphics designer myself XD
 
 ### - Hobbies :
 
-- 🎮 Gaming
+- 🔧 Cars
 - 🌿 Weed
-- 🏀 Basketball
+- 🏋️ Gym
 - 👟 Sneakeeeeerss
 
 </br>
@@ -71,7 +71,7 @@
 <img  width="100%"  alt="jpg" src="https://i.redd.it/erc1wgykrhc31.png">
 
 
-[website]: https://vojiir.com
+[website]: https://vojir.io
 [youtube]: https://www.youtube.com/channel/UCjmf_f-C8kAiK52SLpKsiVg
 [linkedin]: https://linkedin.com/in/
 [steam]: https://steamcommunity.com/id/vojirr
