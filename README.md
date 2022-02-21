@@ -21,7 +21,7 @@
 ### - Learning :
 
 - ✨ Next JS
-- ✨ Back-end in Express js
+- ✨ Back-end in Express JS
 - ✨ Kind of Graphics designer myself XD
 
 ### - Hobbies :
