@@ -27,7 +27,6 @@
 ### - Hobbies :
 
 - 🔧 Cars
-- 🌿 Weed
 - 🏋️ Gym
 - 👟 Sneakeeeeerss
 
