@@ -14,15 +14,11 @@
 
 # About ME 💬 :
 
-### - My name is Vojir, I'm 20yo FullStack Dev based in Czech Republic
+### - My name is Vojir, I'm 21yo FullStack Dev based in Czech Republic 🇨🇿
 
 <img  width="480" alt="GIF" align="right" src="https://64.media.tumblr.com/0558cf92c0467525a560e1780c8c20ab/tumblr_nisjibuBXx1sqqpblo1_500.gif">
 
-### - Learning :
-
-- ✨ Next JS
-- ✨ Back-end in Express JS
-- ✨ Kind of Graphics designer myself XD
+- 🖥️  See my portfolio at [vojir.io](https://vojir.io)
 
 ### - Hobbies :
 
@@ -32,32 +28,18 @@
 
 </br>
 </br>
+</br>
 
-## Connect with me:
 
-[<img align="left" alt="vojiir.com" width="70px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Vojir | YouTube" width="70px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Vojir | LinkedIn" width="70px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="70px" alt="Vojir | Reddit" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/reddit.svg" />][reddit]
-[<img align="left" width="70px" alt="Vojir | Steam" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/steam.svg" />][steam]
-[<img align="left" width="70px" alt="Vojir | Steam" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/stackoverflow.svg" />][stackoverflow]
 
-<br />
-<br />
-<br />
+### Skills
 
-## Languages:
 
-<img align="left" alt="Visual Studio Code" width="40px" background-color="#000" src="https://raw.githubusercontent.com/sssvt-vojir-mikulas/sssvt-vojir-mikulas/main/img/vscode.png" />
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/sssvt-vojir-mikulas/sssvt-vojir-mikulas/main/img/html.png" />
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/sssvt-vojir-mikulas/sssvt-vojir-mikulas/main/img/css.png" />
-<img align="left" alt="C#" width="40px" src="https://raw.githubusercontent.com/sssvt-vojir-mikulas/sssvt-vojir-mikulas/main/img/csharp.png" />
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/sssvt-vojir-mikulas/sssvt-vojir-mikulas/main/img/js.png" />
-<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/sssvt-vojir-mikulas/sssvt-vojir-mikulas/main/img/react.png" />
-<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/sssvt-vojir-mikulas/sssvt-vojir-mikulas/main/img/nodejs.png" />
-<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/sssvt-vojir-mikulas/sssvt-vojir-mikulas/main/img/git.png" />
-<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/github/github-original.svg" />
+<p align="left">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a></p>
 
+### Socials
+<p align="left"> <a href="https://www.linkedin.com/in/mikul%C3%A1%C5%A1-voj%C3%AD%C5%99-62aa03200/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/15126339/vojir" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@UC2gOCkMTUyo6NyDBOpNIkfA" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
 <br />
 <br />
  
@@ -69,10 +51,3 @@
 
 <img  width="100%"  alt="jpg" src="https://i.redd.it/erc1wgykrhc31.png">
 
-
-[website]: https://vojir.io
-[youtube]: https://www.youtube.com/channel/UCjmf_f-C8kAiK52SLpKsiVg
-[linkedin]: https://linkedin.com/in/
-[steam]: https://steamcommunity.com/id/vojirr
-[reddit]: https://www.reddit.com/user/Voyeer
-[stackoverflow]: https://stackoverflow.com/users/15126339/vojir
