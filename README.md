@@ -12,9 +12,7 @@
 
 **Software Engineer** from Czech Republic 🇨🇿
 
-I build web, mobile and native applications with a strong focus on **performance**, **developer experience**, and **clean architecture**.
-
-My work spans the full stack, from frontend interfaces and backend systems to native desktop software.
+I enjoy building fast, reliable software across web, mobile, and desktop platforms.
 
 Built on **macOS**. Deployed on **Linux**. Daily driving **Zed**.
 
